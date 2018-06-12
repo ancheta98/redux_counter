@@ -1,3 +1,29 @@
 .App {
   text-align: center;
 }
+
+button {
+  padding: 10px 20px;
+  border-radius: 5px;
+  border: none;
+  background: #fa923f;
+  color: white;
+}
+button:hover {
+  background: lightblue;
+  color: black;
+}
+
+ul {
+  padding: 0;
+}
+
+ul li {
+  list-style-type: none;
+  font-size: 40pt;
+  margin-top: 20px; 
+}
+
+li:hover {
+  color: red;
+}
