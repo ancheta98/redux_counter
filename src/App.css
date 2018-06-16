@@ -11,7 +11,7 @@ button {
 }
 button:hover {
   background: lightblue;
-  color: black;
+  color: black; 
 }
 
 ul {
